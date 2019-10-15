@@ -1,0 +1,5 @@
+com\mycompany\apploginpersistencia\controller\MainController.class
+com\mycompany\apploginpersistencia\dao\LoginRepository.class
+com\mycompany\apploginpersistencia\modelo\Login.class
+com\mycompany\apploginpersistencia\Application.class
+com\mycompany\apploginpersistencia\controller\LoginController.class
